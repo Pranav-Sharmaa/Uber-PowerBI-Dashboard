@@ -1,4 +1,3 @@
-# Uber-PowerBI-Dashboard
 # 🚖 Uber Data Analytics Dashboard – Power BI
 
 ## 📊 Project Overview
@@ -14,6 +13,10 @@ It helps stakeholders monitor efficiency, evaluate top-performing vehicle types,
 
 ## 📸 Dashboard Preview
 ![Uber Dashboard Preview](uber_dashboard.png)
+
+
+### 🔹 Filtered View (Vehicle Type Example)
+![Uber Dashboard Filtered](uber_dashboard_filtered.png)
 
 ---
 
