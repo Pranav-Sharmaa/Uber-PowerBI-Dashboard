@@ -75,4 +75,4 @@ To explore the dashboard:
 1. **Download the file:** Clone this repository or download the `Uber_Dashboard.pbix` file.  
 2. **Install Power BI Desktop:** Make sure you have it installed.  
 3. **Open the file:** Launch the `.pbix` file in Power BI Desktop.  
-4. **Explore:** Interact with filters, slicers, and visuals to ge
+4. **Explore:** Interact with filters, slicers, and visuals.
